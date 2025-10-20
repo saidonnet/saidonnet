@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @saidonnet
 - 👀 I’m interested in Full Stack Dev
-- 🌱 I’m currently learning React.js
-- 💞️ 
 - 📫 How to reach me by mail on: saidonnet@gmail.com
 
 <!---
