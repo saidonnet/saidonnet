@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @saidonnet
-- 👀 I’m interested in Full Stack Dev
+- 👋 Hi, I’m Saïd Rahmani
+- 👀 I do AI Hyper Fast R&D , you have a hard problem, I solved it for you, from idea to algorithm to implementation.
 - 📫 How to reach me by mail on: saidonnet@gmail.com
 
 <!---
